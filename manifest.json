@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "version": "1.2",
-    "name": "Leads tracker",
+    "version": "1.3",
+    "name": "Xanmark",
     "action": {
         "default_popup": "index.html",
         "default_icon": "icon.png"
